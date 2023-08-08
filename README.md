@@ -7,8 +7,10 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Developer
+Develop the code
 
 ## Tester
+testing the code
 
 ## Devops enginer
-
+Deploy in cicd
